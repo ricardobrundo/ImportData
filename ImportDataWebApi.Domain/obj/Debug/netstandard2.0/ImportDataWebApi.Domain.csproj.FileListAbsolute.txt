@@ -1,0 +1,9 @@
+C:\Users\ricar\Documents\DesafioIlegra\ImportDataWebAPI\ImportDataWebApi.Domain\bin\Debug\netstandard2.0\ImportDataWebApi.Domain.deps.json
+C:\Users\ricar\Documents\DesafioIlegra\ImportDataWebAPI\ImportDataWebApi.Domain\bin\Debug\netstandard2.0\ImportDataWebApi.Domain.dll
+C:\Users\ricar\Documents\DesafioIlegra\ImportDataWebAPI\ImportDataWebApi.Domain\bin\Debug\netstandard2.0\ImportDataWebApi.Domain.pdb
+C:\Users\ricar\Documents\DesafioIlegra\ImportDataWebAPI\ImportDataWebApi.Domain\obj\Debug\netstandard2.0\ImportDataWebApi.Domain.csprojAssemblyReference.cache
+C:\Users\ricar\Documents\DesafioIlegra\ImportDataWebAPI\ImportDataWebApi.Domain\obj\Debug\netstandard2.0\ImportDataWebApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Documents\DesafioIlegra\ImportDataWebAPI\ImportDataWebApi.Domain\obj\Debug\netstandard2.0\ImportDataWebApi.Domain.AssemblyInfoInputs.cache
+C:\Users\ricar\Documents\DesafioIlegra\ImportDataWebAPI\ImportDataWebApi.Domain\obj\Debug\netstandard2.0\ImportDataWebApi.Domain.AssemblyInfo.cs
+C:\Users\ricar\Documents\DesafioIlegra\ImportDataWebAPI\ImportDataWebApi.Domain\obj\Debug\netstandard2.0\ImportDataWebApi.Domain.dll
+C:\Users\ricar\Documents\DesafioIlegra\ImportDataWebAPI\ImportDataWebApi.Domain\obj\Debug\netstandard2.0\ImportDataWebApi.Domain.pdb

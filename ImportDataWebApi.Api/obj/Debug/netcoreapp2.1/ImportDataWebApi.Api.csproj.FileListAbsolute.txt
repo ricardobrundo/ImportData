@@ -1,0 +1,17 @@
+C:\Users\ricar\Documents\DesafioIlegra\ImportDataWebAPI\ImportDataWebApi.Api\bin\Debug\netcoreapp2.1\ImportDataWebApi.Api.deps.json
+C:\Users\ricar\Documents\DesafioIlegra\ImportDataWebAPI\ImportDataWebApi.Api\bin\Debug\netcoreapp2.1\ImportDataWebApi.Api.runtimeconfig.json
+C:\Users\ricar\Documents\DesafioIlegra\ImportDataWebAPI\ImportDataWebApi.Api\bin\Debug\netcoreapp2.1\ImportDataWebApi.Api.runtimeconfig.dev.json
+C:\Users\ricar\Documents\DesafioIlegra\ImportDataWebAPI\ImportDataWebApi.Api\bin\Debug\netcoreapp2.1\ImportDataWebApi.Api.dll
+C:\Users\ricar\Documents\DesafioIlegra\ImportDataWebAPI\ImportDataWebApi.Api\bin\Debug\netcoreapp2.1\ImportDataWebApi.Api.pdb
+C:\Users\ricar\Documents\DesafioIlegra\ImportDataWebAPI\ImportDataWebApi.Api\bin\Debug\netcoreapp2.1\ImportDataWebApi.Domain.dll
+C:\Users\ricar\Documents\DesafioIlegra\ImportDataWebAPI\ImportDataWebApi.Api\bin\Debug\netcoreapp2.1\ImportDataWebApi.Domain.pdb
+C:\Users\ricar\Documents\DesafioIlegra\ImportDataWebAPI\ImportDataWebApi.Api\obj\Debug\netcoreapp2.1\ImportDataWebApi.Api.csprojAssemblyReference.cache
+C:\Users\ricar\Documents\DesafioIlegra\ImportDataWebAPI\ImportDataWebApi.Api\obj\Debug\netcoreapp2.1\ImportDataWebApi.Api.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Documents\DesafioIlegra\ImportDataWebAPI\ImportDataWebApi.Api\obj\Debug\netcoreapp2.1\ImportDataWebApi.Api.RazorAssemblyInfo.cache
+C:\Users\ricar\Documents\DesafioIlegra\ImportDataWebAPI\ImportDataWebApi.Api\obj\Debug\netcoreapp2.1\ImportDataWebApi.Api.RazorAssemblyInfo.cs
+C:\Users\ricar\Documents\DesafioIlegra\ImportDataWebAPI\ImportDataWebApi.Api\obj\Debug\netcoreapp2.1\ImportDataWebApi.Api.AssemblyInfoInputs.cache
+C:\Users\ricar\Documents\DesafioIlegra\ImportDataWebAPI\ImportDataWebApi.Api\obj\Debug\netcoreapp2.1\ImportDataWebApi.Api.AssemblyInfo.cs
+C:\Users\ricar\Documents\DesafioIlegra\ImportDataWebAPI\ImportDataWebApi.Api\obj\Debug\netcoreapp2.1\ImportDataWebApi.Api.RazorTargetAssemblyInfo.cache
+C:\Users\ricar\Documents\DesafioIlegra\ImportDataWebAPI\ImportDataWebApi.Api\obj\Debug\netcoreapp2.1\ImportDataWebApi.Api.csproj.CopyComplete
+C:\Users\ricar\Documents\DesafioIlegra\ImportDataWebAPI\ImportDataWebApi.Api\obj\Debug\netcoreapp2.1\ImportDataWebApi.Api.dll
+C:\Users\ricar\Documents\DesafioIlegra\ImportDataWebAPI\ImportDataWebApi.Api\obj\Debug\netcoreapp2.1\ImportDataWebApi.Api.pdb
