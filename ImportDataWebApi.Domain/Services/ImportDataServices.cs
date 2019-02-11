@@ -315,7 +315,15 @@ namespace ImportDataWebApi.Domain.Services
             if (System.IO.File.Exists(sourceFile) && (this.lstCustomer.Count > 0 || this.lstSalesMan.Count > 0 || this.lstSales.Count > 0))
             {
                 string fileName = "exportData";
-                string nomeArquivo = @"C:\ImportData\Data\out\" + fileName + "_" + DateTime.Now.ToString("yyyyMMddHHmmss") + ".dat";
+                string targeExportPath = @"C:\ImportData\Data\out\";
+                string nomeArquivo = targeExportPath + fileName + "_" + DateTime.Now.ToString("yyyyMMddHHmmss") + ".dat";
+
+                // Para copiar o conteúdo de uma pasta para um novo local:
+                // Crie uma nova pasta de destino, se necessário.
+                if (!System.IO.Directory.Exists(targeExportPath))
+                {
+                    System.IO.Directory.CreateDirectory(targeExportPath);
+                }
 
                 // Cria um novo arquivo e devolve um StreamWriter para ele
 
